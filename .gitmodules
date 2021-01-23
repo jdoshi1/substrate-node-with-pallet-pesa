@@ -1,0 +1,3 @@
+[submodule "pallets/pesa"]
+	path = pallets/pesa
+	url = git@github.com:Pesa-Labs/pallet-pesa.git
